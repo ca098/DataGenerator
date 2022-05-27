@@ -1,9 +1,9 @@
 # DataGenerator
-A Java command-line program, created for my research project that creates a list of jobs to be scheduled.
-The current version of this program limits the amount of jobs created to 50,000. The jobs will be outputted
-in a .txt file in the root directory of the program.
+A Java CLI, created for my research project that creates a list of jobs to be scheduled.
+The current version of this program limits the amount of jobs created to __50,000__. The jobs will be outputted
+in a `.txt` file in the root directory of the program.
 
-Program can be ran by navigating to the root directory and running Main.java
+Program can be ran by navigating to the root directory and running `Main.java`
 
 Example of the randomly generated schedules required for the ECTC, MaxUtil and BTC algorithms can be seen below.
 These algorithms each require a set of resources to be homogeneous.
