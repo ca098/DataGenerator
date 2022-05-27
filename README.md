@@ -10,6 +10,7 @@ These algorithms each require a set of resources to be homogeneous.
 
 **Outputted results are in the format:**
 
+```
 task=0, arrival=0, processingTime=14, utilisation=20
 
 task=1, arrival=4, processingTime=20, utilisation=60
@@ -19,4 +20,5 @@ task=2, arrival=8, processingTime=8, utilisation=40
 task=3, arrival=11, processingTime=20, utilisation=70
 
 task=4, arrival=18, processingTime=15, utilisation=60
+```
  
